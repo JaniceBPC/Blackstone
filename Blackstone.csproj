@@ -2,7 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <AssemblyName>Blackstone</AssemblyName>
     <RootNamespace>Blackstone</RootNamespace>
     <Authors>Janice Kierstead</Authors>
     <RepositoryUrl>https://github.com/JaniceBPC/Blackstone</RepositoryUrl>
